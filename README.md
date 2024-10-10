@@ -2,7 +2,7 @@
 Guided Project -  Learnt Power BI and made this project by refering to @Rishab Mishra.
 
 ## Introduction 
-In the business world of today, making decisions based on data is essential to success. Using data, the Superstore Sales Analysis and Forecasting project finds important trends, patterns, and insights in a sales dataset. This project uses modern data analysis and visualization approaches to help stakeholders analyze previous sales performance and forecast future trends.
+**Bullets -** In the business world of today, making decisions based on data is essential to success. Using data, the Superstore Sales Analysis and Forecasting project finds important trends, patterns, and insights in a sales dataset. This project uses modern data analysis and visualization approaches to help stakeholders analyze previous sales performance and forecast future trends.
 
 ## Process
 
