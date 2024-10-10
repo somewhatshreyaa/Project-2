@@ -11,7 +11,7 @@ In order to ensure data quality, the first step involved cleaning the data. This
 ### Data Modeling
 The next step was to use Power BI's DAX (Data Analysis Expressions) to generate calculated measures and tables that would improve the dataset's analytical capabilities.
 
-  # Created time-series table of sales for forecasting.
+  (# Created time-series table of sales for forecasting.
   TimeSeriesTable = 
   SUMMARIZE(
     SuperStore_Sales_Dataset,
@@ -25,7 +25,7 @@ The next step was to use Power BI's DAX (Data Analysis Expressions) to generate 
     SuperStore_Sales_Dataset[Order Date],
     SuperStore_Sales_Dataset[Ship Date],
     DAY
-  )
+  ))
 
 ### Data Analysis
 After data modeling, a thorough data analysis was executed in Power BI using a variety of visualization tools, such as matrices, to find sales trends, sales by region, sales by category, and other relevant insights.
