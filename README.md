@@ -27,7 +27,7 @@ DATEDIFF(
     SuperStore_Sales_Dataset[Order Date],
     SuperStore_Sales_Dataset[Ship Date],
     DAY
-)
+)'''
 
 ### Data Analysis
 - After data modeling, a thorough data analysis was executed in Power BI using a variety of visualization tools, such as matrices, to find sales trends, sales by region, sales by category, and other relevant insights.
